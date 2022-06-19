@@ -1,0 +1,6 @@
+/workspaces/CSharpPresentation/bin/Debug/net6.0/publish/CSharpPresentation
+/workspaces/CSharpPresentation/bin/Debug/net6.0/publish/CSharpPresentation.dll
+/workspaces/CSharpPresentation/bin/Debug/net6.0/publish/CSharpPresentation.deps.json
+/workspaces/CSharpPresentation/bin/Debug/net6.0/publish/CSharpPresentation.runtimeconfig.json
+/workspaces/CSharpPresentation/bin/Debug/net6.0/publish/CSharpPresentation.pdb
+/workspaces/CSharpPresentation/bin/Debug/net6.0/publish/Figgle.dll
